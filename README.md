@@ -1,1 +1,2 @@
-Программа ищит и выводит все # и # в словах
+The program searches and displays all # and # in words.
+Test the correctness of the output data.
